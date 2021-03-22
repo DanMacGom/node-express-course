@@ -21,5 +21,5 @@ const app = express();
 
 
 app.listen(8000, () => {
-    console.log("servir is running");
+    console.log("server is running");
 });
